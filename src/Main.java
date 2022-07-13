@@ -38,27 +38,7 @@ public class Main {
 
 
 
-        /*double sum =0.0;
-        for ( double i =1; i <= n; i++){
-            double k = 1/i;
-            System.out.println(k);
-
-        }
-
-
-
-
-
-       /* double[] liste2 = {1,2,3,4};
-
-        double sum=0.0;
-
-        for( int i =0; i< liste2.length;i++){
-         sum += 1/liste2[i];
-          System.out.println(sum);
-        }
-        double average = sum / liste2.length;
-         */
+       
 
 
     }
